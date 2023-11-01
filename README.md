@@ -9,7 +9,7 @@
 3. Planificiación, diseño y administración de bases de datos.
 4. Metodología y fases de diseño para bases de datos.
 5. Modelo Entidad-Relación.
-6. Profundización Modelo Entidad-Relación.
+6. Modelo Entidad-Relación Extendido: especialización/generalización.
 7. Modelo Entidad-Relación a Modelo Relacional: pasos, casos, alternativas y soluciones.
 8. Modelo Relacional I.
 9. Modelo Relacional II.
