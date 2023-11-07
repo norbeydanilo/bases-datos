@@ -15,7 +15,7 @@
 9. Modelo Relacional II.
 10. SQL.
 
-:open_file_folder: [Other topics about databases (Unit-07)]():
+:open_file_folder: [Other topics about databases (Unit-07)](https://github.com/norbeydanilo/bases-datos/tree/main/others):
 
 13. Dependencias funcionales y normalización.
 14. Constraints.
